@@ -8,6 +8,7 @@ generates various statistics from it.
 Example usage in main. 
 
 @author: Julian Bunn, jjbunn@gmail.com
+
 '''
 import math
 from collections import Counter
